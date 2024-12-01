@@ -21,14 +21,21 @@ Here are some of the most interesting projects I’ve worked on:
 
 ## 📊 Statistics
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=PiotrFedak&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="Stats Graph" />
-  <img src="https://streak-stats.demolab.com?user=PiotrFedak&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="200" alt="Streak Graph" />
-</div>
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=PiotrFedak&theme=gotham&hide_border=true)
+![PiotrFedak's Stats](https://github-readme-stats.vercel.app/api?username=PiotrFedak&theme=gotham&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
 ## 📫 Contact
 
-- **E-mail**: [piotr.fedak.dev@gmail.com](mailto:piotr.fedak.dev@gmail.com) or [piotr.fedak@studenci.collegiumwitelona.pl](mailto:piotr.fedak@studenci.collegiumwitelona.pl)
+<img align="right" src="https://github.com/user-attachments/assets/60c387ba-f25f-42bd-8935-067e06343bf9" alt="Developer Activity" width="320" />
+
+<br>
+
+- **E-mail**: [piotr.fedak.dev@gmail.com](mailto:piotr.fedak.dev@gmail.com) or [piotr.fedak@studenci.collegiumwitelona.pl](mailto:piotr.fedak@studenci.collegiumwitelona.pl)  
+
+<br>
+
 - **LinkedIn**: [Piotr Fedak](https://www.linkedin.com/in/piotr-fedak-a12600317/)
+
+<br>
