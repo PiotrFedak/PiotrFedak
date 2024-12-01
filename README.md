@@ -5,7 +5,6 @@ I am a computer science student mainly involved in creating websites.
 <br>My journey with programming started in technical school back in **2017**, where I created my first poor-looking websites using HTML and CSS.  
 Since then, I’ve explored a variety of fascinating areas, from building computers, working with Arduino, and experimenting with 3D printers to diving deeper into programming technologies like **Laravel** and **React**.
 
----
 
 ## 🚀 Projects
 
@@ -17,25 +16,18 @@ Here are some of the most interesting projects I’ve worked on:
 - **[kibolApp](https://github.com/kibolApp/kibolApp)**: A project mapping Polish football clubs and showing safe zones for each football fan. Features include authentication, tests, an admin panel, club relations, favorite clubs, and a map created with Leaflet.
 - **[ATLA_Card_Game_Website](https://github.com/PiotrFedak/ATLA_Card_Game_Website)**: A website showcasing two games from the Avatar universe (one mobile, one desktop). Also includes game history and user statistics.
 
----
 
 ## 📊 Statistics
+<br>
+<img align="right" src="https://github.com/user-attachments/assets/60c387ba-f25f-42bd-8935-067e06343bf9" alt="Developer Activity" width="380" />
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=PiotrFedak&theme=gotham&hide_border=true)
+<br>
+<br>
 ![PiotrFedak's Stats](https://github-readme-stats.vercel.app/api?username=PiotrFedak&theme=gotham&show_icons=true&hide_border=true&count_private=true)
 
----
 
 ## 📫 Contact
 
-<img align="right" src="https://github.com/user-attachments/assets/60c387ba-f25f-42bd-8935-067e06343bf9" alt="Developer Activity" width="320" />
-
-<br>
-
 - **E-mail**: [piotr.fedak.dev@gmail.com](mailto:piotr.fedak.dev@gmail.com) or [piotr.fedak@studenci.collegiumwitelona.pl](mailto:piotr.fedak@studenci.collegiumwitelona.pl)  
-
-<br>
-
 - **LinkedIn**: [Piotr Fedak](https://www.linkedin.com/in/piotr-fedak-a12600317/)
-
-<br>
