@@ -18,13 +18,13 @@ Here are some of the most interesting projects I’ve worked on:
 
 
 ## 📊 Statistics
-<br>
-<img align="right" src="https://github.com/user-attachments/assets/60c387ba-f25f-42bd-8935-067e06343bf9" alt="Developer Activity" width="380" />
+
+<img align="right" src="https://github.com/user-attachments/assets/60c387ba-f25f-42bd-8935-067e06343bf9" alt="Developer Activity" width="250" />
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=PiotrFedak&theme=gotham&hide_border=true)
 <br>
-<br>
 ![PiotrFedak's Stats](https://github-readme-stats.vercel.app/api?username=PiotrFedak&theme=gotham&show_icons=true&hide_border=true&count_private=true)
+
 
 
 ## 📫 Contact
