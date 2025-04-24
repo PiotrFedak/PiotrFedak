@@ -1,7 +1,6 @@
 <h1>Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/></h1>
 
-I am a computer science student mainly involved in creating websites.
-
+I'm a graduated Computer Science Engineer mainly involved in creating websites.
 <br>My journey with programming started in technical school back in **2017**, where I created my first poor-looking websites using HTML and CSS.  
 Since then, I’ve explored a variety of fascinating areas, from building computers, working with Arduino, and experimenting with 3D printers to diving deeper into programming technologies like **Laravel** and **React**.
 
@@ -10,7 +9,7 @@ Since then, I’ve explored a variety of fascinating areas, from building comput
 
 Here are some of the most interesting projects I’ve worked on:
 
-- Currently writing an engineering thesis on NBA team statistics.
+- **[NBAVerse](https://github.com/PiotrFedak/Thesis)** A project focused on NBA team statistics – features an interactive map of NBA teams, detailed team and player data, player search, match history, and schedules. Built with React and Laravel.
 - **[BLT](https://github.com/blumilksoftware/blt)**: Behat+Laravel toolbox, a package meant to streamline testing Laravel apps with Behat. This was my internship at Blumilk, during which I worked with another student on a package to help write faster tests for Laravel projects.
 - **[Rozlewnia Perfum](https://rozlewnia-perfum-lubin.com/)**: A website for a local business in Lubin. In this commission, I learned a lot about SEO and improving the website's Google ranking.
 - **[kibolApp](https://github.com/kibolApp/kibolApp)**: A project mapping Polish football clubs and showing safe zones for each football fan. Features include authentication, tests, an admin panel, club relations, favorite clubs, and a map created with Leaflet.
