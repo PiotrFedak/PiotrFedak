@@ -1,8 +1,8 @@
 <h1>Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/></h1>
 
 Hi! I'm a Computer Science Engineer mainly working with technologies related to JavaScript, but I'm always open to learning something new.  
-I hold the ISTQB® Certified Tester Foundation Level certification and enjoy working on both development and software testing.  
-I’m into all things IT, broadly speaking.  
+I hold the ISTQB CTFL certificate and have experience in both software development and testing.
+I have a broad interest in IT and quality assurance.
 Feel free to reach out — I don’t bite and would be happy to help with a project, especially if it involves testing!
 
 
@@ -42,11 +42,11 @@ Here are some of the most interesting projects I’ve worked on:
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
   <img src="https://img.shields.io/badge/100%25%20coverage%20not%20guaranteed-%F0%9F%91%80-red?style=for-the-badge" alt="100% coverage not guaranteed 👀"/>
 </p>
-<p style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
- <a href="https://app.skillsclub.com/credential/251253-873bb4bc94dcfacc76f3846a8d505e486873099f79690a62ea4a9b581aa06999" rel="noopener noreferrer">
-  <img src="https://github.com/user-attachments/assets/0bd1367c-d877-48a0-9741-2f604e0c7802" alt="ISTQB Certified Tester Foundation Level" width="120" />
-</a>
-</p>
 
 
+
+
+## 📫 Contact
+- **E-mail**: [piotr.fedak.dev@gmail.com](mailto:piotr.fedak.dev@gmail.com) or [piotr.fedak@studenci.collegiumwitelona.pl](mailto:piotr.fedak@studenci.collegiumwitelona.pl)  
+- **LinkedIn**: [Piotr Fedak](https://www.linkedin.com/in/piotr-fedak-a12600317/)
 
