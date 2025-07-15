@@ -43,9 +43,9 @@ Here are some of the most interesting projects I’ve worked on:
   <img src="https://img.shields.io/badge/100%25%20coverage%20not%20guaranteed-%F0%9F%91%80-red?style=for-the-badge" alt="100% coverage not guaranteed 👀"/>
 </p>
 <p style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-  <a href="https://www.certible.com/verify?certificate=25-122662">
-    <img src="https://github.com/user-attachments/assets/0bd1367c-d877-48a0-9741-2f604e0c7802" alt="ISTQB Certified Tester Foundation Level" width="120"/>
-  </a>
+ <a href="https://app.skillsclub.com/credential/251253-873bb4bc94dcfacc76f3846a8d505e486873099f79690a62ea4a9b581aa06999" rel="noopener noreferrer">
+  <img src="https://github.com/user-attachments/assets/0bd1367c-d877-48a0-9741-2f604e0c7802" alt="ISTQB Certified Tester Foundation Level" width="120" />
+</a>
 </p>
 
 
