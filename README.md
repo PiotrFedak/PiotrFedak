@@ -1,8 +1,8 @@
 <h1>Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/></h1>
 
-Hi! I'm a Computer Science Engineer mainly working with technologies related to JavaScript, but I'm always open to learning something new.  
-I hold the ISTQB CTFL certificate and have experience in both software development and testing.
-I have a broad interest in IT and quality assurance.
+Hi! I'm a QA Engineer / Software Tester mainly working with technologies related to JavaScript, but I'm always open to learning something new.  
+I have a broad interest in IT and quality assurance, and yes, I professionally break things.
+
 Feel free to reach out — I don’t bite and would be happy to help with a project, especially if it involves testing!
 
 
@@ -32,6 +32,7 @@ Here are some of the most interesting projects I’ve worked on:
   <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber"/>
   <img src="https://img.shields.io/badge/Manual%20Testing-333333?style=for-the-badge&logo=testing-library&logoColor=white" alt="Manual Testing"/>
   <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" alt="REST API"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Test%20Documentation-blue?style=for-the-badge" alt="Test Documentation"/>
 
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
@@ -39,6 +40,7 @@ Here are some of the most interesting projects I’ve worked on:
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
   <img src="https://img.shields.io/badge/100%25%20coverage%20not%20guaranteed-%F0%9F%91%80-red?style=for-the-badge" alt="100% coverage not guaranteed 👀"/>
 </p>
