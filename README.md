@@ -12,7 +12,6 @@ Here are some of the most interesting projects I’ve worked on:
 
 - **[NBAVerse](https://github.com/PiotrFedak/Thesis)** A project focused on NBA team statistics – features an interactive map of NBA teams, detailed team and player data, player search, match history, and schedules. Built with React and Laravel.
 - **[BLT](https://github.com/blumilksoftware/blt)**: Behat+Laravel toolbox, a package meant to streamline testing Laravel apps with Behat. This was my internship at Blumilk, during which I worked with another student on a package to help write faster tests for Laravel projects.
-- **[Rozlewnia Perfum](https://rozlewnia-perfum-lubin.com/)**: A website for a local business in Lubin. In this commission, I learned a lot about SEO and improving the website's Google ranking.
 - **[kibolApp](https://github.com/kibolApp/kibolApp)**: A project mapping Polish football clubs and showing safe zones for each football fan. Features include authentication, tests, an admin panel, club relations, favorite clubs, and a map created with Leaflet.
 - **[ATLA_Card_Game_Website](https://github.com/PiotrFedak/ATLA_Card_Game_Website)**: A website showcasing two games from the Avatar universe (one mobile, one desktop). Also includes game history and user statistics.
 
@@ -49,6 +48,6 @@ Here are some of the most interesting projects I’ve worked on:
 
 
 ## 📫 Contact
-- **E-mail**: [piotr.fedak.dev@gmail.com](mailto:piotr.fedak.dev@gmail.com) or [piotr.fedak@studenci.collegiumwitelona.pl](mailto:piotr.fedak@studenci.collegiumwitelona.pl)  
+- **E-mail**: [piotr.fedak.dev@gmail.com](mailto:piotr.fedak.dev@gmail.com)
 - **LinkedIn**: [Piotr Fedak](https://www.linkedin.com/in/piotr-fedak-a12600317/)
 
